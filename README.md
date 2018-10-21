@@ -14,7 +14,7 @@ You can use the links bellow to get a copy of the slides used on the presentatio
 * [2016-10-15 - CareerZoo - Dublin](http://www.slideshare.net/rjsmelo/docker-and-running-multiple-versions-of-php-careerzoo-dublin)
 
 
-### Feedback always wellcome
+### Feedback always welcome
 
 You can either use the github way: Open a issue and/or Fork, fix and do a pull request
 
